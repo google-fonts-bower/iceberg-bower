@@ -1,0 +1,17 @@
+{
+    "name": "iceberg-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cyreal"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/iceberg-bower.git"
+    },
+    "description": "Iceberg font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
